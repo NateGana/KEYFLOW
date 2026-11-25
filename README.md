@@ -2,10 +2,6 @@
 
 A browser piano learning app in plain HTML, CSS and JavaScript. No backend, no dependencies.
 
-## Run it
-1. Unzip and open the `KEYFLOW` folder in VS Code.
-2. Install the "Live Server" extension, right-click `index.html` → **Open with Live Server**.
-(Opening `index.html` directly also works.)
 
 ## What is included
 - Virtual piano: 2 octaves, mouse/touch/computer keyboard, polyphony, sustain, volume, octave switch.
@@ -14,7 +10,6 @@ A browser piano learning app in plain HTML, CSS and JavaScript. No backend, no d
 - Song Library: 3 original melodies with playback, speed control, practice mode and a metronome.
 - Dashboard, progress stats, 7 achievements, settings (name, goal, reset).
 
-Progress is saved in your browser's localStorage. Reset it under Settings. Practice time is estimated from the gaps between notes you play.
 
 ## Controls
 White keys `A S D F G H J K L ; '`, black keys `W E T Y U O P`, `Z`/`X` octave, `Space` sustain.
